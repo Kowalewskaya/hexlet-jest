@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kowalewskaya/hexlet-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kowalewskaya/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/Kowalewskaya/hexlet-jest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
